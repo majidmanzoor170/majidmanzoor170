@@ -1,19 +1,19 @@
-### Hi there, I'm Muhammad Hassaan Farooq Butt! 👋
+### Hi there, I'm Majid Manzoor! 👋
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<p> <img align="centre" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassaanButt&show_icons=true&locale=en" /> </p>
+<p> <img align="centre" src="https://github-readme-stats-sigma-five.vercel.app/api?username=majidmanzoor170&show_icons=true&locale=en" /> </p>
 
 
 
 
-<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
+<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidmanzoor170&show_icons=true&locale=en&layout=compact" alt="majidmanzoor170" /></p>
 
 
   
 ### ☕ Get in touch
-- Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
-- ResearchGate: <a href = "https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt">Muhammad Hassaan Farooq Butt</a>
-- LinkedIn: <a href = "https://www.linkedin.com/in/mhassaanbutt//">MHassaanButt</a>
-- Website: https://mhassaanbutt.github.io/
+- Gmail: <a href = "#">majidmanzoor170@gmail.com</a>
+- ResearchGate: <a href = "[https://www.researchgate.net/profile/Majid-Manzoor-2/research]">Majid Manzoor</a>
+- LinkedIn: <a href = "www.linkedin.com/in/manzoormajid//">Majid Manzoor</a>
+ #Website: https://mhassaanbutt.github.io/
   
 </p>
 
