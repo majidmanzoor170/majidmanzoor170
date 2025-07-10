@@ -12,7 +12,7 @@
 ### ☕ Get in touch
 - Gmail: <a href = "#">majidmanzoor170@gmail.com</a>
 - ResearchGate: <a href = "[https://www.researchgate.net/profile/Majid-Manzoor-2/research]">[Majid Manzoor](https://www.researchgate.net/profile/Majid-Manzoor-2)</a>
-- LinkedIn: <a href = "www.linkedin.com/in/manzoormajid//">manzoormajid</a>
+- LinkedIn: <a href = "www.linkedin.com/in/manzoormajid/">Majid Manzoor</a>
   
 </p>
 
